@@ -2,3 +2,4 @@ frames/*.jpg
 frames/*.jpg_original
 *.gpx
 *.txt
+*.DS_Store
