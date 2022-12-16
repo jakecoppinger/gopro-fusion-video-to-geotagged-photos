@@ -1,5 +1,7 @@
-frames/*.jpg
-frames/*.jpg_original
+front-frames/*.jpg
+back-frames/*.jpg
+front-frames/*.jpg_original
+back-frames/*.jpg_original
 *.gpx
 *.txt
 *.DS_Store
